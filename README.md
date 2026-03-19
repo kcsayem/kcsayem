@@ -1,10 +1,6 @@
 # MD Khalequzzaman Chowdhury Sayem
 
 <p align="center">
-  <img src="https://kcsayem.github.io/images/img/profile/profile_1.jpg" alt="MD Khalequzzaman Chowdhury Sayem" width="220" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <b>Researcher at UNIST Vision & Learning Lab</b><br />
   3D Vision · Vision-Language Models · Geometry-Grounded Multimodal Reasoning
 </p>
