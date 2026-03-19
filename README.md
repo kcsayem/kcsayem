@@ -97,13 +97,6 @@ I am interested in building multimodal systems that reason more reliably about *
 | [QORT-Former](https://github.com/kcsayem/QORT-Former) | Real-time Transformer for understanding two hands manipulating objects |
 | [Parallel-bandit](https://github.com/kcsayem/Parallel-bandit) | Parallelized contextual bandit algorithms for news recommendation |
 
-## GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kcsayem&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcsayem&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Connect
 
 I am always open to research discussions, collaborations, and ideas around **3D vision**, **multimodal learning**, and **vision-language reasoning**.
