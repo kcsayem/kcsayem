@@ -1,7 +1,7 @@
 # MD Khalequzzaman Chowdhury Sayem
 
 <p align="center">
-  <img src="https://kcsayem.github.io/images/img/profile/profile_1.jpg" alt="MD Khalequzzaman Chowdhury Sayem" width="180" />
+  <img src="https://kcsayem.github.io/images/img/profile/profile_1.jpg" alt="MD Khalequzzaman Chowdhury Sayem" width="220" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ I am interested in building multimodal systems that reason more reliably about *
 | --- | --- |
 | [HandVQA](https://github.com/kcsayem/handvqa) | Fine-grained spatial reasoning about hands in vision-language models |
 | [QORT-Former](https://github.com/kcsayem/QORT-Former) | Real-time Transformer for understanding two hands manipulating objects |
-| [4d-editing](https://github.com/eldor-fozilov/4d-editing) | Main contributor to 4D Instruct-GS2GS for extending semantic editing to dynamic 3D scenes |
+| [4d-editing](https://github.com/eldor-fozilov/4d-editing) | 4D Instruct-GS2GS for extending semantic editing to dynamic 3D scenes |
 | [Parallel-bandit](https://github.com/kcsayem/Parallel-bandit) | Parallelized contextual bandit algorithms for news recommendation |
 
 ## Connect
